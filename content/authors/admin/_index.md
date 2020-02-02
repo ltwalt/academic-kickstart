@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Walt DeGrange
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CANA Advisors Director of Analytics Capabilities
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: CANA Advisors
+  url: ""
+- name: NC State Poole School of Managment
+  url: ""
+- name: University of Arkansas
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
