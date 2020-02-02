@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Virtual"
   date_start = "2018"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Online"
   date_start = "2014"
-  date_end = "Present"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
   
   [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Raleigh, NC"
   date_start = "2015"
-  date_end = "Present"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
